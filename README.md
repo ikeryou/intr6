@@ -12,3 +12,6 @@ https://ikeryou.github.io/intr6/3/
 
 ### sample4 テキストを使った例
 https://ikeryou.github.io/intr6/4/
+
+### sample5
+https://ikeryou.github.io/intr6/5/
