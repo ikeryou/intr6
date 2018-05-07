@@ -124,7 +124,7 @@ hoverItems = [];
 init();
 function init() {
 
-  var itemNum = 50;
+  var itemNum = 30;
   var inputNum = 15;
 
   $('.mv').empty();
