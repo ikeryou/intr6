@@ -127,8 +127,11 @@ Item.prototype.reset = function() {
 mv = $('.mv');
 items = [];
 speed = 0.3;
-itemNum = 20;
 
+itemNum = 20;
+if(isMobile.any) {
+  itemNum = 10;
+}
 
 // 初期設定
 init();
